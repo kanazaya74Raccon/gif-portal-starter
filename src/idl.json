@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "name": "myepicproject",
+    "instructions": [
+      {
+        "name": "initialize",
+        "accounts": [],
+        "args": []
+      }
+    ],
+    "metadata": {
+      "address": "2rBwsS1SY4gAYpzzfxK7aF17vpTqQyY9FqAUyAxt6qkn"
+    }
+  }
